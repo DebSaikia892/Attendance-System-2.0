@@ -8,7 +8,7 @@ Duplicate entries for the same session are prevented.
 
 Installation
 Clone the Repository
-git clone https://github.com/your-username/FaceRecognitionAttendance.git
+git clone https://github.com/DebSaikia892/Attendance-System-2.0.git
 cd FaceRecognitionAttendance
 Create a Virtual Environment
 python -m venv venv
